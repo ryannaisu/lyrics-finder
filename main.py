@@ -13,8 +13,8 @@ ______________________________________________________
          Free to use and Open Source Project.
       
   [{r('#')}] Author: {g('TGM MASTER ( The Genjot Memek Master )')}
-  [{r('#')}] Github: {g('https://github.com/')}
-  [{r('#')}] Facebook: {g('https://www.facebook.com/ryan.naisu.7')}
+  [{r('#')}] Github: {g('https://github.com/tgmmaster/')}
+  [{r('#')}] Facebook: {g('https://www.facebook.com/ryan.naisu.7/')}
   [{r('#')}] Team: {g('No Team im Solo')}
   [{r('#')}] Made with: {g('Python')}
                                             
@@ -55,3 +55,4 @@ if __name__ == '__main__':
    print(f"[{g(i + 1)}] {data[i].string.strip()}")
  input2 = int(input(f"\n[{c('?')}] Select: ")) - 1
  saveLrc(MAIN_URL+data[input2]['href'], data[input2]['name']+'.lrc')
+
