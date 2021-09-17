@@ -1,0 +1,8 @@
+def r(text): return "\033[91m{}\033[00m" .format(text)
+def g(text): return "\033[92m{}\033[00m" .format(text)
+def y(text): return "\033[93m{}\033[00m" .format(text)
+def lp(text): return "\033[94m{}\033[00m" .format(text)
+def p(text): return "\033[95m{}\033[00m" .format(text)
+def c(text): return "\033[96m{}\033[00m" .format(text)
+def lg(text): return "\033[97m{}\033[00m" .format(text)
+def b(text): return "\033[98m{}\033[00m" .format(text)
