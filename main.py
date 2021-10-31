@@ -12,10 +12,9 @@ ______________________________________________________
                This is a Lyrics Finder
          Free to use and Open Source Project.
       
-  [{r('#')}] Author: {g('TGM MASTER ( The Genjot Memek Master )')}
-  [{r('#')}] Github: {g('https://github.com/tgmmaster/')}
+  [{r('#')}] Author: {g('Ryan Naisu')}
+  [{r('#')}] Github: {g('https://github.com/ryannaisu/')}
   [{r('#')}] Facebook: {g('https://www.facebook.com/ryan.naisu.7/')}
-  [{r('#')}] Team: {g('No Team im Solo')}
   [{r('#')}] Made with: {g('Python')}
                                             
 ------------------------------------------------------
